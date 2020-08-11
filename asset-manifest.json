@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.9ada33e5.chunk.css",
+    "main.js": "/website/static/js/main.96c40cf9.chunk.js",
+    "main.js.map": "/website/static/js/main.96c40cf9.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.9b825fe6.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.9b825fe6.js.map",
+    "static/css/2.06c478a6.chunk.css": "/website/static/css/2.06c478a6.chunk.css",
+    "static/js/2.5720fe58.chunk.js": "/website/static/js/2.5720fe58.chunk.js",
+    "static/js/2.5720fe58.chunk.js.map": "/website/static/js/2.5720fe58.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.4b5c6bb375b5f4af7a225500a7ede3ba.js": "/website/precache-manifest.4b5c6bb375b5f4af7a225500a7ede3ba.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/2.06c478a6.chunk.css.map": "/website/static/css/2.06c478a6.chunk.css.map",
+    "static/css/main.9ada33e5.chunk.css.map": "/website/static/css/main.9ada33e5.chunk.css.map",
+    "static/js/2.5720fe58.chunk.js.LICENSE.txt": "/website/static/js/2.5720fe58.chunk.js.LICENSE.txt",
+    "static/media/chopped.jpeg": "/website/static/media/chopped.88326831.jpeg",
+    "static/media/gov.jpg": "/website/static/media/gov.c431a19b.jpg",
+    "static/media/hockey.jpg": "/website/static/media/hockey.92a9e768.jpg",
+    "static/media/me.jpg": "/website/static/media/me.cbcc6c44.jpg",
+    "static/media/oxford.png": "/website/static/media/oxford.f28cb0a3.png",
+    "static/media/qrg.png": "/website/static/media/qrg.c0725673.png",
+    "static/media/resume.pdf": "/website/static/media/resume.16389521.pdf",
+    "static/media/uga.png": "/website/static/media/uga.68a17dad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b825fe6.js",
+    "static/css/2.06c478a6.chunk.css",
+    "static/js/2.5720fe58.chunk.js",
+    "static/css/main.9ada33e5.chunk.css",
+    "static/js/main.96c40cf9.chunk.js"
+  ]
+}
